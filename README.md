@@ -1,4 +1,4 @@
-Restaurant Management merupakan sebuah sistem informasi management restoran sederhana yang dimana terdapat menu untuk <br>
+Restaurant Management merupakan sebuah sistem informasi management restoran sederhana yang dimana terdapat menu untuk 
 memilih meja (table) serta melakukan pemesanan makanan atau minuman. <br><br>
 
 Program ini dibuat oleh : <br> <br>
